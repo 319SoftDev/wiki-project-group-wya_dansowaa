@@ -1,4 +1,4 @@
-[Chinese](chinese/tea-ceremony.mdd) **Tea** [name](url)
+[Chinese](chinese/tea-ceremony.md) **Tea** [name](url)
 ----
 
 # Heading : Topic
