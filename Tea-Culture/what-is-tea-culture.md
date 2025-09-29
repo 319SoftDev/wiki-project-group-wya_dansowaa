@@ -1,5 +1,5 @@
 [Home](placeholder)  
-[Chinese](chinese/tea-ceremony.md) **Tea Culture** [Indian](indian/tea-ceremony.md)
+[Chinese](chinese/tea-ceremony.md) •───────•°•❀ **Tea Culture** ❀•°•───────• [Indian](indian/tea-ceremony.md)
 ----
 
 # Heading : Topic
