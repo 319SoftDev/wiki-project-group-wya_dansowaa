@@ -1,4 +1,5 @@
-[Chinese](chinese/tea-ceremony.md) **Tea** [name](url)
+[Home](template.md)  
+[Chinese](chinese/tea-ceremony.md) **Tea Culture** [name](url)
 ----
 
 # Heading : Topic
