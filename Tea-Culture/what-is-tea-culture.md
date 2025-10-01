@@ -8,6 +8,11 @@ In general, tea culture is the tradition and beliefs behind how tea is treated w
 ## ── .✦ China
   Often seen as the origin place of tea, it's credited for influencing how tea culture developed within other countries, tea is seen as an important part of lifestyle. 
 
+## ── .✦ Japan
+
+
+## ── .✦ India
+
 
 ![alt text](url)
 
