@@ -2,11 +2,11 @@
 ---- 
 
 # 𖤣.𖥧.𖡼.⚘ What was the preferred tea?
-text text
-text text
+There's no preferred tea when it comes to chinese tea ceremonies. However, there is a popular teas that are used. 
+The top choices are Oolong, Black Tea, and Pu-erh tea.
 
 
-![alt text](url)
+![Wedding Tea Ceremony tea set](https://www.eventsource.ca/blog/wp-content/uploads/2020/10/by-Artiese-Studio.jpg)
 
 text text
 
@@ -15,6 +15,7 @@ text text
 ---- 
 
 ### footer: extra info
+
 
 
 
