@@ -2,7 +2,7 @@
 ---- 
 
 # 𖤣.𖥧.𖡼.⚘ What was the Tea Ceremony?
-  Known as Gongfu Tea, this is a 
+  Known as Gongfu Tea, this is a way of preparing tea. 
 
 
 ![alt text](url)
