@@ -2,11 +2,10 @@
 ---- 
 
 # 𖤣.𖥧.𖡼.⚘ What was the preferred tea?
-text text
-text text
+In India, the most oftenly use tea for their tea ceremonies is Masala Chai, which is a mix of black tea, spices, sugar, and milk.
 
 
-![alt text](url)
+![Tea set of Masala Chai]https://vatans.com/wp-content/uploads/2023/05/23.jpg)
 
 text text
 
@@ -14,10 +13,6 @@ text text
 
 ---- 
 
-### footer: extra info
+### footer: 
 
-
-
-
-
-
+- https://www.indianhealthyrecipes.com/masala-tea-chai/
