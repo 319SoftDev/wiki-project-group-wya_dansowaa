@@ -2,8 +2,7 @@
 ---- 
 
 # 𖤣.𖥧.𖡼.⚘ What was the Tea Ceremony?
-text text
-text text
+  Known as Gongfu Tea, this is a 
 
 
 ![alt text](url)
@@ -15,6 +14,7 @@ text text
 ---- 
 
 ### footer: extra info
+
 
 
 
