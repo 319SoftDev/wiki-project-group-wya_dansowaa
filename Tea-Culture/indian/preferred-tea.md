@@ -7,13 +7,10 @@ In India, the most oftenly use tea for their tea ceremonies is Masala Chai, whic
 
 ![Tea set of Masala Chai](https://vatans.com/wp-content/uploads/2023/05/23.jpg)
 
-text text
-
-text text
-
 ---- 
 
 ### footer: 
 
 - https://www.indianhealthyrecipes.com/masala-tea-chai/
+
 
