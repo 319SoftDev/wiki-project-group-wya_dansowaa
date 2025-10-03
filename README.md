@@ -1,4 +1,4 @@
-[tea culture](https://github.com/319SoftDev/wiki-project-group-wya_dansowaa/blob/main/Tea-Culture/what-is-tea-culture.md) **NavBar** [name](url)
+[tea culture](https://github.com/319SoftDev/wiki-project-group-wya_dansowaa/blob/main/Tea-Culture/what-is-tea-culture.md)    [tea types](https://github.com/319SoftDev/wiki-project-group-wya_dansowaa/blob/main/Tea-Types/tea%20types.md)    **NavBar** [name](url)
 ----
 
 # Heading : Topic
