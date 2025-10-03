@@ -11,7 +11,8 @@ The top choices are Oolong, Black Tea, and Pu-erh tea.
 ---- 
 
 ### footer: 
-- https://www.eventsource.ca/blog/wp-content/uploads/2020/10/by-Artiese-Studio.jpg
+- https://www.theteashelf.com/blogs/news/the-chinese-tea-ceremony-everything-you-need-to-know#:~:text=Chinese%20Oolong%20Teas.,yielding%20a%20story%20of%20flavor.
+
 
 
 
