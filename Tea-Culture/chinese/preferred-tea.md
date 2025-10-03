@@ -8,14 +8,10 @@ The top choices are Oolong, Black Tea, and Pu-erh tea.
 
 ![Wedding Tea Ceremony tea set](https://www.eventsource.ca/blog/wp-content/uploads/2020/10/by-Artiese-Studio.jpg)
 
-text text
-
-text text
-
 ---- 
 
-### footer: extra info
-
+### footer: 
+- https://www.eventsource.ca/blog/wp-content/uploads/2020/10/by-Artiese-Studio.jpg
 
 
 
