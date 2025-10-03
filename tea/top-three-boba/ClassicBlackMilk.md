@@ -1,5 +1,18 @@
-## How to Make 3 diffternt kinds of Boba it at Home ##
- 1. <B> Classic Black Milk Tea</b> <br>
+## How to Make Classic Black Milk Tea Boba it at Home ##
+ 1. <b> Classic Black Milk Tea Ingredients </b> 
+#### Boba ####
+ - 2.5 cups of water
+- ⅓ cup (57 g) of raw tapioca pearls
+- ¼ cup (40 g) of Taiwanese black sugar powder
+- (Iced version: ⅓ cup black sugar or 53 g)
+#### Milk Tea ####
+- 2 cups of water
+- 2 tbsp (6 g) of Red Jade black tea leaves
+- 1 cup of milk
+- 1 tbsp of evaporated milk (Iced version: 2 tbsp)
+- Additional for iced version: 2 cups of ice cubes <br> <br><br>
+ 2. <b> Classic Black Milk Tea Instructions </b> 
+ #### Milk Tea ####
 - Boil water in a saucepan .
 - Once it starts boiling, add the raw tapioca pearls to the saucepan.
 - Give them a quick stir to prevent sticking, boil the tapioca pearls for 20 minutes.
@@ -11,7 +24,7 @@
 - Press and mix the black sugar into the boba until it fully dissolves, with no visible chunks.
 - Divide the black sugar boba and syrup evenly between two serving glasses.
 -Save the saucepan for making the milk tea next.
-2. <b> Milk Tea <b>
+#### Boba ####
 - Into the same saucepan, bring the water to a boil while covered.
 (Making the tea in the same saucepan as the black sugar flavors the tea!)
 - Once boiling, turn off the heat and add the Red Jade black tea leaves directly to the water.
