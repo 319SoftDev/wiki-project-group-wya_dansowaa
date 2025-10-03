@@ -5,7 +5,7 @@
 In India, the most oftenly use tea for their tea ceremonies is Masala Chai, which is a mix of black tea, spices, sugar, and milk.
 
 
-![Tea set of Masala Chai]https://vatans.com/wp-content/uploads/2023/05/23.jpg)
+![Tea set of Masala Chai](https://vatans.com/wp-content/uploads/2023/05/23.jpg)
 
 text text
 
@@ -16,3 +16,4 @@ text text
 ### footer: 
 
 - https://www.indianhealthyrecipes.com/masala-tea-chai/
+
