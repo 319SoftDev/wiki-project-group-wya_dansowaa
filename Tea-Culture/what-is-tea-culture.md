@@ -7,12 +7,13 @@ In general, tea culture is the tradition and beliefs behind how tea is treated w
 
 ## ── .✦ China
   Often seen as the origin place of tea, it's credited for influencing how tea culture developed within other countries, tea is seen as an important part of lifestyle. Chinese tea culture is often linked with the practice of Daoism (as known as Taoism by some).  
-  According to legend, tea was acciedently discovered by Emperor Shénnóng whislt drinking boiled water in which leaves have fallen in. Having drinking it for it's alloring aroma
+  According to legend, tea was acciedently discovered by Emperor Shénnóng whislt drinking boiled water in which leaves have fallen in. Having drinking it for it's alloring aroma, he found the drink refreshing.  
 
 ## ── .✦ Japan
-
-
+  With tea being brought in from China during the Heian period, a lot of it's tea culture have similiar components yet contasting differences. At first, tea was mostly drank by buddhist monks, priests, and the high class. Later on, Priest Sen no Rikyū codified with him being regarded as the founder of the Japanese Tea Ceremony. 
+  
 ## ── .✦ India
+  
 
 
 ![alt text](url)
