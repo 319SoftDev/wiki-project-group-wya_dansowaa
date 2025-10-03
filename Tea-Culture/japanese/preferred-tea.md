@@ -2,19 +2,15 @@
 ---- 
 
 # 𖤣.𖥧.𖡼.⚘ What was the preferred tea?
-text text
-text text
+A tea that has recently taken over the world by chokehold and that is currently going through a shortage, the preferred tea for Japanese Tea Ceremonies is Matcha.
 
 
-![alt text](url)
-
-text text
-
-text text
+![Matcha Powder](https://navitasorganics.com/cdn/shop/articles/Navitas_Blog_Matcha_Uses_WEB3.jpg?v=1656453445&width=770)
 
 ---- 
 
 ### footer: extra info
+
 
 
 
