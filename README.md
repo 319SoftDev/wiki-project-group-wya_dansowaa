@@ -10,5 +10,5 @@ There are many different types of teas around the world. In this project we will
 ---- 
 
 ### footer:
-This projected was worked on by Shwe, Dansowaa, and K 
+This project was worked on by Shwe, Dansowaa, and K 
 ( ˶ˆᗜˆ˵ ) !!
