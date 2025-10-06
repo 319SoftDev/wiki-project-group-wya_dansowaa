@@ -14,4 +14,4 @@ In India, the most oftenly use tea for their tea ceremonies is Masala Chai, whic
 - https://www.indianhealthyrecipes.com/masala-tea-chai/
 - https://vareesha.com/blogs/news/the-art-of-tea-time-celebrating-indias-chai-culture#:~:text=Tea%20time%20in%20India%20is,over%20shared%20stories%20and%20laughter.
 
-
+Note from K ➜ I do recommend Chai !! Although American Chai is a bit more sugary. o(≧▽≦)o
