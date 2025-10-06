@@ -9,7 +9,9 @@ A tea that has recently taken over the world by chokehold and that is currently 
 
 ---- 
 
-### footer: extra info
+### footer:
+
+Note from K -> Me personally, Matcha is alright but it could truly be a hit or miss depending on how it's made. To be fair I'm more of a taro person. ദ്ദി´ ˘ `)✧
 
 
 
