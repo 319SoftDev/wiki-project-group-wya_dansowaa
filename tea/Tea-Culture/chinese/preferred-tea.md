@@ -15,7 +15,7 @@ The top choices are Oolong, Black Tea, and Pu-erh tea.
 
 Note from K ➜ Oolong tea is so good, definitely a 10/10. 〆(・∀・) 
 
-#### the tiny faces are purely for entermainment while maing this, please don't take them seriously Σ(º ﾛ º๑)
+##### the tiny faces are purely for entermainment among my pages while making this, please don't take them seriously Σ(º ﾛ º๑)
 
 
 
