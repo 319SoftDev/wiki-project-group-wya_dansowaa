@@ -2,7 +2,7 @@
 ----
 
 # Teas
-There are many different types of teas around the world. In this project we will talk about different types of tea, tea cultur and ceremony, and also different flavors of boba tea
+There are many different types of teas around the world. In this project we will talk about different types of tea, tea culture and ceremonies, and also different flavors of boba tea
 
 
 ![A tea cup surrounded by various types of tea leaves](https://d3i6fh83elv35t.cloudfront.net/static/2024/01/GettyImages-157418534-e1706305324274-1024x614.jpg)
