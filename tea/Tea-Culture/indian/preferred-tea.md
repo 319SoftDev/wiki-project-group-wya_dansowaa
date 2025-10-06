@@ -2,7 +2,7 @@
 ---- 
 
 # 𖤣.𖥧.𖡼.⚘ What was the preferred tea?
-In India, the most oftenly use tea for their tea ceremonies is Masala Chai, which is a mix of black tea, spices, sugar, and milk.
+In India, the most oftenly use tea for their tea ceremonies is Masala Chai, which is a mix of black tea, spices, sugar, and milk. Chai is seen as a symbol of hospitality and being united, often served in social circles. 
 
 
 ![Tea set of Masala Chai](https://vatans.com/wp-content/uploads/2023/05/23.jpg)
@@ -12,5 +12,6 @@ In India, the most oftenly use tea for their tea ceremonies is Masala Chai, whic
 ### footer: 
 
 - https://www.indianhealthyrecipes.com/masala-tea-chai/
+- https://vareesha.com/blogs/news/the-art-of-tea-time-celebrating-indias-chai-culture#:~:text=Tea%20time%20in%20India%20is,over%20shared%20stories%20and%20laughter.
 
 
