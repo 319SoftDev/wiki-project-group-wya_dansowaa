@@ -24,3 +24,5 @@ In general, tea culture is the tradition and beliefs behind how tea is treated w
 - https://www.chadotea.com/blogs/blog/origins-of-japanese-tea?srsltid=AfmBOoqip700fNNYA4P4FZPo3N4YOYA-0-0uGJMkGFdFZYRFULFQfWTQ
 - https://chcp.org/teas-wonderful-history/
 - https://full-pour.com/ritual-of-chai/
+
+![thumbs up](https://i.pinimg.com/236x/ba/25/de/ba25decf45ecfd1a320e7bec4aabf076.jpg)
