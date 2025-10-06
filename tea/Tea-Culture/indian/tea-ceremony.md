@@ -13,7 +13,7 @@
   - cinnamon
   - ginger
   - coriander
-  - star anise
+  - star anise  
 _These spices also help improve the immune systems._
 
 ![Cups of Chai](https://budleaf.com/wp-content/uploads/2024/07/AdobeStock_303941691-1568x1045.jpeg)
