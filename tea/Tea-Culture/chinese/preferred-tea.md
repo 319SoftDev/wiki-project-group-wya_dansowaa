@@ -13,6 +13,10 @@ The top choices are Oolong, Black Tea, and Pu-erh tea.
 ### footer: 
 - https://www.theteashelf.com/blogs/news/the-chinese-tea-ceremony-everything-you-need-to-know#:~:text=Chinese%20Oolong%20Teas.,yielding%20a%20story%20of%20flavor.
 
+Note from K ➜ Oolong tea is so good, definitely a 10/10. 〆(・∀・) 
+
+#### the tiny faces are purely for entermainment while maing this, please don't take them seriously Σ(º ﾛ º๑)
+
 
 
 
