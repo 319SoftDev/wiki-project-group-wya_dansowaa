@@ -2,7 +2,7 @@
 ---- 
 
 # 𖤣.𖥧.𖡼.⚘ What is the Tea Ceremony?
-Known as Chanoyu, 茶の湯.
+Known as _Chanoyu, 茶の湯_.
 
 The tea ceremony is a formal multi-hour event that contains a course meal and later on two bowls of tea, first a thick tea and then a thin tea. For this ceremony, one should dress modest and humble. The japanese tea ceremony is traditionally hosted in a garden venue. although more modern takes have been approached. 
 
