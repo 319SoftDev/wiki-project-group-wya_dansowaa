@@ -11,7 +11,7 @@ A tea that has recently taken over the world by chokehold and that is currently 
 
 ### footer:
 
-Note from K -> Me personally, Matcha is alright but it could truly be a hit or miss depending on how it's made. To be fair I'm more of a taro person. ദ്ദി´ ˘ `)✧
+Note from K ➜ Me personally, Matcha is alright but it could truly be a hit or miss depending on how it's made. To be fair, I'm more of a taro drinker. So for me, it's roots over leaves. ദ്ദി´ ˘ `)✧
 
 
 
