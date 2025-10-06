@@ -6,7 +6,7 @@ There's no preferred tea when it comes to chinese tea ceremonies. However, there
 The top choices are Oolong, Black Tea, and Pu-erh tea.
 
 
-![Wedding Tea Ceremony tea set](https://www.eventsource.ca/blog/wp-content/uploads/2020/10/by-Artiese-Studio.jpg)
+![Gongfu Tea Ceremony tea set](https://www.harney.com/cdn/shop/articles/unnamed_746f0fde-e649-498d-98a4-2d5f5eb6ba1d.jpg?v=1575985939)
 
 ---- 
 
